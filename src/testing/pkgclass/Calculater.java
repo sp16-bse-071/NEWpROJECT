@@ -31,4 +31,9 @@ public class Calculater {
           System.out.println("Multiplaction Answer= "+c);
           return c;
     }
+    public int Ratio(int a, int b){
+       int c= a%b;
+          System.out.println("Multiplaction Answer= "+c);
+          return c;
+    }
 }
